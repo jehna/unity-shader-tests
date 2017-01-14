@@ -8,6 +8,21 @@ Feel free to use any of the shaders and give feedback.
 
 Just open the project folder in the most recent Unity and open a scene.
 
+### Resources
+
+* Unity's "Gentle Introduction to Shaders"
+  * [Part 1](https://unity3d.com/learn/tutorials/topics/graphics/gentle-introduction-shaders)
+  * [Part 2](http://www.alanzucconi.com/2015/06/17/surface-shaders-in-unity3d/)
+  * [Part 4](http://www.alanzucconi.com/2015/07/01/vertex-and-fragment-shaders-in-unity3d/)
+  * [Part 5](http://www.alanzucconi.com/2015/07/08/screen-shaders-and-postprocessing-effects-in-unity3d/)
+* [Cg reference manual](http://developer.download.nvidia.com/cg/Cg_3.1/Cg-3.1_April2012_ReferenceManual.pdf)
+  * [Same as a website](http://http.developer.nvidia.com/Cg/abs.html)
+* [UnityCG.cgnic](https://docs.unity3d.com/Manual/SL-BuiltinIncludes.html) library
+  * [Source of the structs](https://en.wikibooks.org/wiki/Cg_Programming/Unity/Debugging_of_Shaders#Pre-Defined_Input_Structures)
+* [Graphics.Blit](https://docs.unity3d.com/ScriptReference/Graphics.Blit.html)
+* Some [reference code](http://wiki.unity3d.com/index.php/Shader_Code) from Unity's wiki
+*
+
 ## Different shader demos
 
 Currently there are the following shaders:
